@@ -1,6 +1,5 @@
 # Remove_National_Id_Logo
-Given a picture of an Egyptian national id, you are tasked to remove the logo of جمهورية
-مصر العربية and replace it with the color of its background,
+Given a picture of an Egyptian national id, you are tasked to remove the logo of  جمهورية مصر العربية and replace it with the color of its background
 # Steps
 * Collect addidtional data from kaggle dataset [egyptian-ids](https://www.kaggle.com/datasets/mostafaebrahiem/egyptian-ids) 
 
